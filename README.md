@@ -90,15 +90,26 @@ This project addresses the following key questions:
 ## **📸 Visuals**  
 Here’s a quick glimpse of the project:  
 
-### **Screenshot of the Dashboard**  
 ![Cyber Loss Trends Dashboard](screenshot.png)  
 
 ---
 
 ## **🚀 Conclusion**  
-This **Power BI dashboard** provides a comprehensive view of **cyber loss trends** from 2019 to 2024. The insights reveal that **ransomware and phishing** are the most significant threats, with losses growing exponentially each year. By identifying high-risk companies and threat types, this analysis can help businesses and insurers **strengthen cybersecurity measures, reduce losses, and detect fraudulent claims early**.  
+This **Power BI dashboard** provides a comprehensive view of **cyber loss trends** from 2019 to 2024. The analysis reveals that **ransomware and phishing** are the most significant threats, with losses growing exponentially each year. By identifying high-risk companies and threat types, this project offers actionable insights to help businesses and insurers:  
+- **Strengthen cybersecurity measures** to mitigate risks.  
+- **Reduce financial losses** by targeting the most vulnerable areas.  
+- **Detect fraudulent claims early** through data-driven analysis.  
+
+This project underscores the importance of proactive cybersecurity strategies in an era of escalating cyber threats.  
 
 ---
+
+## **🤝 Let's Connect!**  
+
+If you’re passionate about **data-driven cybersecurity insights** or would like to collaborate on similar projects, I’d love to hear from you!  
+
+📧 **Email:** [arpitasalaria2003@gmail.com](mailto:arpitasalaria2003@gmail.com)  
+🔗 **LinkedIn:** [Arpita Salaria](https://www.linkedin.com/in/arpita-salaria-562703263)  
 
 
 
